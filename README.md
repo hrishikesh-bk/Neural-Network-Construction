@@ -1,5 +1,4 @@
-# Neural-Network-Assignment-1
-
+# Neural-Network-Construction
 Given an outline of constructing a neural netwrok.
 Completed the code, added elements such as regularization, storing training history to see/plot accuracy as epochs pass.
 
